@@ -1,5 +1,5 @@
 {
-  "name": "kissmetrics"
+  "name": "@mindflash-ops/kissmetrics"
 
 , "description": "Library for KISSmetrics REST API"
 
